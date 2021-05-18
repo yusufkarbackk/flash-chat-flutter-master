@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815898143480",
+    "project_id": "quick-chat-cee09",
+    "storage_bucket": "quick-chat-cee09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815898143480:android:0ac13a5fbe3e3883e8290d",
+        "android_client_info": {
+          "package_name": "co.yusuf.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815898143480-bdb9ss4f76iv0t2e6obg96l6evvvfspf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGZdspMWCDZNwy73Zw0E8BigMSXSd-Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815898143480-bdb9ss4f76iv0t2e6obg96l6evvvfspf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
